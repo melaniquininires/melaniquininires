@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy Mel 👋
 
-<!--
-**melaniquininires/melaniquininires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrolladora web de Neuquén 🏔️
+Diseño y desarrollo páginas web para empresas: sitios rápidos, modernos y adaptados a celular.
 
-Here are some ideas to get you started:
+### 🛠️ Con qué trabajo
+![Tecnologías](https://skillicons.dev/icons?i=html,css,tailwind,js,react,php,laravel)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+También trabajo con GeneXus en desarrollo de sistemas.
+
+### 🚀 Proyectos destacados
+- Próximamente: webs demo por rubro 
+
+### 📫 Contacto
+- Portfolio: próximamente
+- Mail: melaniquininires@gmail.com
